@@ -10,7 +10,7 @@ import redis.clients.jedis.params.geo.GeoRadiusParam;
 
 /*
  * 
- * redis 3.2 + jedis-2.9.0.jar
+ * redis 3.2 + jedis-2.9.0.jar 2018年3月3日00:02:19
  * 
  * redis geo 地理位置
  * 
